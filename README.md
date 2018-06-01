@@ -17,5 +17,5 @@ roslaunch pandar pandar40p_driver.launch
 
 ## ROS Topic name
 ```
-/PointCloud2
+/pandar40p/sensor/pandar40p/hesai40/PointCloud2
 ```
