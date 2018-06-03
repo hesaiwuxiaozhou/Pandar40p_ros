@@ -4,7 +4,7 @@
 ```
 mkdir -p rosworkspace/src
 cd rosworkspace/src
-git clone https://github.com/HesaiTechnology/pandar_ros.git
+git clone https://github.com/HesaiTechnology/pandar_ros.git --recursive
 cd ..
 catkin_make
 ```
@@ -17,5 +17,5 @@ roslaunch pandar pandar40p_driver.launch
 
 ## ROS Topic name
 ```
-/PointCloud2
+/pandar40p/sensor/pandar40p/hesai40/PointCloud2
 ```
