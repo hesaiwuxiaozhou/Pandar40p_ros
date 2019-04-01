@@ -2,6 +2,8 @@
 
 This repository includes the ROS Driver for the Pandar40p LiDAR sensor manufactured by Hesai Technology.
 
+[![Build Status](https://travis-ci.org/amc-nu/Pandar40p_ros.svg?branch=master)](https://travis-ci.org/amc-nu/Pandar40p_ros)
+
 ## How to Build
 
 ### Install `catkin_tools`
